@@ -1,4 +1,3 @@
-# Task-3-pipeline-processor-design-
 # 4-Stage Pipelined Processor (Verilog)
 
 ## Overview
@@ -36,8 +35,4 @@ The simulation will print the state of the pipeline (IF, ID, EX, WB) and key reg
 ## Customization
 
 - You can modify the initial values in the instruction or data memory in `pipelined_processor.v` to test different programs.
-- Add more instructions or features as needed for your coursework or experiments.
-
-## Contact
-
-For questions or suggestions, please contact [Your Name] at [your email].
+- Add more instructions or features as needed for your coursework or experiments
